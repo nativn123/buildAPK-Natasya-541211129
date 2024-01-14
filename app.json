@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "xiirpl4-541211129-natasya-ivana-porto",
+    "slug": "snack-8ced82ad-3e00-4fe8-8cd1-ab3c6e99590f",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "cd0b4fd4-c3fe-42c9-9c3a-5b6e8f18629f"
+      }
+    }
+  }
+}
