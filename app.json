@@ -15,13 +15,15 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.nativnn.snack8ced82ad3e004fe88cd1ab3c6e99590f"
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.nativnn.snack8ced82ad3e004fe88cd1ab3c6e99590f"
     },
     "web": {
       "favicon": "./assets/favicon.png"
